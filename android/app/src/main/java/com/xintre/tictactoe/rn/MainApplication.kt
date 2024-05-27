@@ -1,4 +1,4 @@
-package com.tictactoereactnative
+package com.xintre.tictactoe.rn
 
 import android.app.Application
 import com.facebook.react.PackageList

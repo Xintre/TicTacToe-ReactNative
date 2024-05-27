@@ -1,4 +1,4 @@
-package com.tictactoereactnative
+package com.xintre.tictactoe.rn
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
